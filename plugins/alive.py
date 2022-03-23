@@ -37,16 +37,22 @@ async def start_(client: Client, message: Message):
         photo=f"{ALIVE_IMG}",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 🍷ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
-ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
-━━━━━━━━━━━━━━━━━━━━━━**
-┣★ ᴄʀᴇᴀᴛᴏʀ : [🍷 𝐔𝐑𝐀𝐍𝐈𝐔𝐌🍷](https://t.me/THE_URANIUM)
-🤎
-┣★ sᴜᴘᴘᴏʀᴛ : [🍷𝐉𝐎𝐈𝐍 𝐅𝐎𝐑 𝐒𝐔𝐏𝐏𝐎𝐑𝐓🍷](https://t.me/LOVERS_SWEETLAND)
-━━━━━━━━━━━━━━━━━━━━━━**  
+ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs 🌹 ...
+
+
+ 
+
+┏━━━━━━━━━━━━━━━━━┓
+┣★ ᴄʀᴇᴀᴛᴏʀ : [ 𝐔𝐑𝐀𝐍𝐈𝐔𝐌 ](https://t.me/THE_URANIUM)
+┗━━━━━━━━━━━━━━━━━┛
+
+
+
+ 
 
 
 🍷 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ 𝘿𝘼𝘿𝘿𝙔 ](https://t.me/THE_URANIUM_OP) ...
+ᴅᴍ ᴛᴏ ᴍʏ [𝐏𝐀𝐏𝐀](https://t.me/THE_URANIUM_OP) 
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
